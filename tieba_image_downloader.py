@@ -1,5 +1,5 @@
 '''
-爬取百度贴吧杉本有美吧里杉本有美的图片，来自github：Show-Me-the-Code，python练习册第13题
+爬取百度贴吧杉本有美吧里杉本有美的图片，来自 github：Show-Me-the-Code python练习册 第13题
 '''
 
 import os
